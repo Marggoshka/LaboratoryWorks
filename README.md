@@ -1,1 +1,1 @@
-# LaboratoryWorks
+# Laboratory
